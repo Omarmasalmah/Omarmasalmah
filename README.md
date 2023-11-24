@@ -1,6 +1,6 @@
 <img src="https://cdn.pixabay.com/photo/2023/10/18/03/54/ai-generated-8322792_1280.jpg" width="100%" height="250" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=619&height=77&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Masalmah;Computer+Engineering+Student+%40+Birzeit+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=800&height=77&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Masalmah;Computer+Engineering+Student+%40+Birzeit+University" alt="Typing SVG" /></a>
 <h1>
 
 
