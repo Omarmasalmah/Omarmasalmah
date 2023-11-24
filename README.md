@@ -1,6 +1,7 @@
-<img src="https://cdn.pixabay.com/photo/2023/10/18/03/54/ai-generated-8322792_1280.jpg" width="100%" height="300" />
-<h1 align="center">Hi 👋, I'm Omar Masalmah</h1>
+<img src="https://cdn.pixabay.com/photo/2023/10/18/03/54/ai-generated-8322792_1280.jpg" width="100%" height="200" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=23&pause=1000&color=F70711&background=4432FF00&center=true&vCenter=true&random=false&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Masalmah" alt="Typing SVG" /></a>
+<h1>
 <h4 align="center">Computer Engineering Student @ Birzeit University</h4>
 <h1>
 
