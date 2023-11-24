@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2023/10/18/03/54/ai-generated-8322792_1280.jpg" width="100%" />
+<img src="https://cdn.pixabay.com/photo/2023/10/18/03/54/ai-generated-8322792_1280.jpg" width="100%" height="200" />
 <h1 align="center">Hi 👋, I'm Omar Masalmah</h1>
 
 <h4 align="center">Computer Engineering Student @ Birzeit University</h4>
