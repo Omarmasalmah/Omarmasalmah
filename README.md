@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
+<br />
 <h2 align="center"> Quick Overview 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Omarmasalmah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Omarmasalmah's Languages/Frameworks" width = 400 />
