@@ -12,8 +12,8 @@
 
 <h1>
 
-<h3 align="left">Languages and Tools: </h3>
-<p align="left">
+<h3 align="center">Languages and Tools: </h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -25,10 +25,12 @@
 </p>
 <h1>
 <h1>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Omarmasalmah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Omarmasalmah's Languages/Frameworks" width = 400 />
 
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmasalmah&layout=compact&theme=transparent" alt=Omarmasalmah /><p>
 <h1>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Omarmasalmah&show_icons=true&locale=en&theme=highcontrast" alt="Omarmasalmah" /></p>
+<p align="center" height="180em"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Omarmasalmah&show_icons=true&locale=en&theme=highcontrast" alt="Omarmasalmah" /></p>
 
 
 <h6 align="center">⚡If You Take The Design Please Star The Repo ⭐</h6>
