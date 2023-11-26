@@ -33,6 +33,10 @@
 <p align="center" height="180em"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Omarmasalmah&show_icons=true&locale=en&theme=highcontrast" alt="Omarmasalmah" /></p>
 
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/Omarmasalmah/count.svg"></img>
+</div>
 
 <h6 align="center">⚡If You Take The Design Please Star The Repo ⭐</h6>
 
