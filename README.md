@@ -4,7 +4,7 @@
 <h1>
 
 
-<img align="center" alt="coding" width="100%" height="500" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<img align="center" alt="coding" width="80%" height="500" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
 </div><h3 align="left"> Connect with me:</h3>
 <p align="left">
