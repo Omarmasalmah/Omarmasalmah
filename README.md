@@ -3,8 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=31&pause=1001&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Masalmah;Computer+Engineering+Student+%40+Birzeit+University" alt="Typing SVG" /></a>
 <h1>
 
-
-<img align="center" alt="coding" width="80%" height="500" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" width="600" height="500"/>
+</div>
 
 </div><h3 align="left"> Connect with me:</h3>
 <p align="left">
